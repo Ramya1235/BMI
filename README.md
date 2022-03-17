@@ -1,4 +1,3 @@
-
 BMI-Calculator
 
 For backend npm install npm start
